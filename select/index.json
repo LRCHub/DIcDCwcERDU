@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Resolution",
+  "base_artist": "ROMANTIC MODE",
+  "createdAt": "2025-12-01T14:42:39.399154Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Need a Resolution",
+      "artist": "Aaliyah",
+      "has_synced": false,
+      "path": "select/01_We_Need_a_Resolution_Aaliyah.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Need a Resolution",
+      "artist": "Aaliyah feat. Timbaland",
+      "has_synced": false,
+      "path": "select/02_We_Need_a_Resolution_Aaliyah_feat._Timbaland.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Need A Resolution (Featuring Timbaland) (feat. Timbaland)",
+      "artist": "Aaliyah Feat. Timbaland",
+      "has_synced": false,
+      "path": "select/03_We_Need_A_Resolution_(Featuring_Timbaland)_(feat._Timbaland)_Aaliyah_Feat._Timbaland.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Need A Resolution (Instrumental)",
+      "artist": "Aaliyah Feat. Timbaland",
+      "has_synced": true,
+      "path": "select/04_We_Need_A_Resolution_(Instrumental)_Aaliyah_Feat._Timbaland.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Need a Resolution",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/05_We_Need_a_Resolution_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Need a Resolution (feat. Timbaland)",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/06_We_Need_a_Resolution_(feat._Timbaland)_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Resolution Time",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/07_Resolution_Time_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Resolution",
+      "artist": "Great White",
+      "has_synced": false,
+      "path": "select/08_Resolution_Great_White.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Resolution",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/pl_01_Resolution_遠藤正明.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Resolution",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/pl_02_Resolution_遠藤正明.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Resolution",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/pl_03_Resolution_遠藤正明.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Resolution",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/pl_04_Resolution_遠藤正明.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Resolution",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/pl_05_Resolution_遠藤正明.txt"
+    }
+  ]
+}
